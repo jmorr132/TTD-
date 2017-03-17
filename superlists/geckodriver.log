@@ -1,0 +1,12 @@
+1489780587319	geckodriver	INFO	Listening on 127.0.0.1:51991
+1489780587882	mozprofile::profile	INFO	Using profile path C:\Users\JMORRI~1\AppData\Local\Temp\rust_mozprofile.KkNtRJW1cENP
+1489780587888	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1489780587935	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51995
+1489780589036	Marionette	INFO	Listening on port 51995
+1489780590237	Marionette	WARN	TLS certificate errors will be ignored for this session
+1489780652251	geckodriver	INFO	Listening on 127.0.0.1:52023
+1489780652792	mozprofile::profile	INFO	Using profile path C:\Users\JMORRI~1\AppData\Local\Temp\rust_mozprofile.tV468WCBA3P4
+1489780652798	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
+1489780652808	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52027
+1489780653556	Marionette	INFO	Listening on port 52027
+1489780654073	Marionette	WARN	TLS certificate errors will be ignored for this session
